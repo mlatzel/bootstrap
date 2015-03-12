@@ -1,0 +1,23 @@
+{
+    "2857164862237599": {
+        "name": "bootstrap.css",
+        "title": null,
+        "modfied_time": "2014-03-08 18:57:03",
+        "comments": null,
+        "__location": "resources\/Bootstrap"
+    },
+    "6568852204753939": {
+        "name": "bootstrap.min.js",
+        "title": null,
+        "modfied_time": "2015-03-11 15:23:06",
+        "comments": null,
+        "__location": "resources\/Bootstrap"
+    },
+    "6790757946151142": {
+        "name": "bootstrap.js",
+        "title": null,
+        "modfied_time": "2015-03-11 15:23:06",
+        "comments": null,
+        "__location": "resources\/Bootstrap"
+    }
+}
